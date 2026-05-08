@@ -1,43 +1,31 @@
-<h1 align="center">👨‍💻 Guilherme Rafael Borges dos Santos</h1>
+---
+
+<h3 align="center">💻 Front-End</h3>
 
 <p align="center">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas — UNISUAM
-</p>
-
-<p align="center">
-💻 Desenvolvedor em formação com foco em desenvolvimento web
-</p>
-
-<p align="center">
-🚀 Buscando evolução constante na área de tecnologia
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
 ---
 
-<h3 align="center">⚡ Tecnologias</h3>
+<h3 align="center">⚙️ Back-End</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,python,nodejs" />
 </p>
 
 ---
 
-<h3 align="center">📚 Conhecimentos</h3>
+<h3 align="center">🗄️ Banco de Dados</h3>
 
 <p align="center">
-HTML • CSS • JavaScript • PHP • Python
-</p>
-
-<p align="center">
-MySQL • Git • GitHub • Desenvolvimento Web
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">🛠️ Ferramentas</h3>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Rafael-Borges&show_icons=true&theme=tokyonight"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Rafael-Borges&layout=compact&theme=tokyonight"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
