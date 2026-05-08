@@ -43,3 +43,13 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+---
+
+<h3 align="center">📫 Contato</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilherme-rafael-borges2024" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Rafael-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
