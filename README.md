@@ -1,7 +1,9 @@
 <h1 align="center">👨‍💻 Guilherme Rafael</h1>
 
+<h3 align="center">Desenvolvimento Web • Suporte de TI</h3>
+
 <p align="center">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas — UNISUAM
+🎓 Estudante de Análise e Desenvolvimento de Sistemas 
 </p>
 
 <p align="center">
@@ -38,8 +40,4 @@
 
 ## 📫 Contato
 
-<p>
-  <a href="https://www.linkedin.com/in/guilherme-rafael-borges2024" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Rafael-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+- LinkedIn: https://www.linkedin.com/in/guilherme-rafael-borges2024
