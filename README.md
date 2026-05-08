@@ -1,8 +1,14 @@
 <h1 align="center">👨‍💻 Guilherme Rafael Borges dos Santos</h1>
 
 <p align="center">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas — UNISUAM <br>
-💻 Desenvolvedor em formação focado em desenvolvimento web <br>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas — UNISUAM
+</p>
+
+<p align="center">
+💻 Desenvolvedor em formação com foco em desenvolvimento web
+</p>
+
+<p align="center">
 🚀 Buscando evolução constante na área de tecnologia
 </p>
 
@@ -19,8 +25,11 @@
 <h3 align="center">📚 Conhecimentos</h3>
 
 <p align="center">
-HTML • CSS • JavaScript • PHP • Python • MySQL <br>
-Git & GitHub • Desenvolvimento Web • Banco de Dados
+HTML • CSS • JavaScript • PHP • Python
+</p>
+
+<p align="center">
+MySQL • Git • GitHub • Desenvolvimento Web
 </p>
 
 ---
@@ -29,12 +38,6 @@ Git & GitHub • Desenvolvimento Web • Banco de Dados
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Rafael-Borges&show_icons=true&theme=tokyonight"/>
-  
+
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Rafael-Borges&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-<p align="center">
-📍 Rio de Janeiro — Brasil
 </p>
